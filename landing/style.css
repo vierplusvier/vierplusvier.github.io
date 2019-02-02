@@ -1,0 +1,88 @@
+/*fonts and colors*/
+
+body {
+	background: #f1f1f1;
+	color: #333333;
+	font-family: Tahoma;
+	}
+
+	h1 {
+	font-family: Geneva;
+	font-size: 68px;
+	color: #1974cd;
+	}
+
+	h2 {
+  	font-family: Geneva;
+  	color: #000000;
+  	font-weight: lighter;
+  	font-size: 24px;
+	}
+
+	a {
+  	text-decoration: none;
+  	color: #1974cd;
+	}
+
+	a:hover {
+  	text-decoration: none;
+  	color: #333333;
+  	}
+
+/*custom design*/
+
+#banner {
+	background-image: url(images/IMG_4348.jpg);
+	background-size: cover;
+	padding: 150px 50px;
+	text-align: center;
+	color: white;
+}
+
+#banner h1 {
+	color: #1974cd;
+	font-size: 62px;
+	text-shadow: 0.3px 0.3px 0.3px #333333;
+}
+
+#banner p {
+	color: white;
+  	opacity: 0.8;
+  	font-size: 30px;
+  	font-weight: lighter;
+}
+
+.section {
+  padding: 50px;
+  font-weight: lighter;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+
+#footer a:hover {
+  color: white;
+}
+
+#heart{
+	border-radius: 50%;
+}
+
+#form {
+	background: #e5e5e5;
+	padding: 10px 0px;
+}
+
+.form-group {
+	padding: 0px 50px;
+	background: #e5e5e5;
+}
+
